@@ -9,7 +9,7 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ac6a6522-d664-40b6-a1b4-63bc42a61b7d" name="Default" comment="zadnja verzija">
+    <list default="true" id="ac6a6522-d664-40b6-a1b4-63bc42a61b7d" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <list id="d023a639-2089-432e-9fe8-d8e1caced8a6" name="New changelist" comment="" />
@@ -2129,7 +2129,13 @@
       <option name="project" value="LOCAL" />
       <updated>1455647604915</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="zadnja verzija">
+      <created>1455648307102</created>
+      <option name="number" value="00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1455648307102</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="ToolWindowManager">
